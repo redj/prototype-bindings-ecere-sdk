@@ -10,7 +10,7 @@
       "TargetFileName" : "_pyecere",
       "Libraries" : [
          "ecere",
-         "python3"
+         "python34"
       ]
    },
    "Configurations" : [
